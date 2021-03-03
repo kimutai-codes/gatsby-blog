@@ -7,5 +7,6 @@ description: |
   gatsby blog
   netlify
   headless cms
+featuredImage: /assets/dream_thinkpad_small.gif
 ---
 Maan... can't believe I'm finally bloggin.Gaaang I got my own blog yowh
